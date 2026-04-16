@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (too large for GitHub - store on Google Drive)
+models/*.keras
+models/*.h5
+
+# Temp Office files
+doc/~$*
+
+# IDE
+.idea/
