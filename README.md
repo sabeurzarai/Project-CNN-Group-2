@@ -2,7 +2,7 @@
 
 A small deep-learning project where we built and compared Convolutional Neural Networks to classify tiny images from the CIFAR-10 dataset into 10 categories.
 
-[Task Descriptions and Project Instructions](http://./doc/CNN_Project_Introduction.pptx)
+[Task Descriptions and Project Instructions](http://doc/CNN_Project_Introduction.pptx)
 
 ## Project Results
 
